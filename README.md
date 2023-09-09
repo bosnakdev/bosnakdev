@@ -104,7 +104,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bosnakdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://wakatime.com/share/@mustafabosnak/92c761e8-605c-41d1-b0a1-0257d69a0756.png" align="left" height="" width="100%" />  
+<img src="https://wakatime.com/share/@bosnakdev/92c761e8-605c-41d1-b0a1-0257d69a0756.png" align="left" height="" width="100%" />  
   
 
 <br/>  
