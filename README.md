@@ -99,7 +99,7 @@
 [![wakatime](https://wakatime.com/badge/user/69961171-230d-49ac-a200-4078a81bba49.svg)](https://wakatime.com/@69961171-230d-49ac-a200-4078a81bba49)  
   
 
-<img src="https://wakatime.com/share/@mustafabosnak/e0350a01-36fa-41a3-8623-a067fceb1f95.png" align="left" height="" width="100%" />  
+<img src="https://wakatime.com/share/@bosnakdev/e0350a01-36fa-41a3-8623-a067fceb1f95.png" align="left" height="" width="100%" />  
   
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bosnakdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
