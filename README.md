@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://mustafabosnak.com.tr/wp-content/uploads/2021/09/mustafabosnak-logo-renkli-2.png" align="center" style="max-width:300px;" />
+<img src="https://bosnak.dev/storage/bosnakdev%20mustafa%20bo%C5%9Fnak%20full-stack%20developer%20favicon%20(1).webp" align="center" style="max-width:300px;" />
 </div>  
   
 
